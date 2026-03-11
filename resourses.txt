@@ -1,0 +1,6 @@
+1. history of AI
+
+2. introduction to AI
+
+3. Deep learning
+https://github.com/adam-maj/deep-learning
